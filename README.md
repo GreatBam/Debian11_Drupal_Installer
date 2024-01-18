@@ -27,7 +27,7 @@ Replace {hostname} by the domain name or ip of your instance.
 Set the file as executable :
 
 ```bash
-chmod 755 filename.sh
+chmod 755 drupal.installer.sh
 ```
 
 ### Run the script
@@ -35,7 +35,7 @@ chmod 755 filename.sh
 Finaly, run it :
 
 ```bash
-./filename.sh
+./drupal.installer.sh
 ```
 
 The installation will begin.
