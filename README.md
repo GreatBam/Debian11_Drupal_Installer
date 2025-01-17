@@ -4,15 +4,15 @@
 
 ### Create the file in your instance
 
-If you want to copy the scritp :
+Use this command to create a new file on your machine :
 
 ```bash
 touch filename.sh
 ```
 
-### Set Server name
+Then simply copy/paste the code in it by using either nano or vi (or vim)
 
-Simply download the script.
+### Set Server name
 
 Don't forget to change the server name at line 63 of the script file.
 
